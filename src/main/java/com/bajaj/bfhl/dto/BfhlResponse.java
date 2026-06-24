@@ -23,7 +23,7 @@ public class BfhlResponse {
 
     private List<String> alphabets;
 
-    @JsonProperty("special_characters")
+    @JsonProperty("sepcial_characters")
     private List<String> specialCharacters;
 
     private String sum;
